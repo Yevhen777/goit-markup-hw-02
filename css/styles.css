@@ -1,0 +1,17 @@
+:root {
+  --accent-color: #2196f3;
+  --background-color: #ffffff;
+  --text-color-main: #212121;
+  --text-color-secondary: #757575;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+
+  color: var(--text-color-main);
+  background-color: var(--background-color);
+}
+
+/* All site */
+
+/* Site nav */
