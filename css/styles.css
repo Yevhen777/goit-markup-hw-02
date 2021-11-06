@@ -141,7 +141,7 @@ body {
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 6%;
-  color: var(--background-color);
+  color: #2196f3;
 }
 
 .hero-btn {
@@ -218,7 +218,7 @@ body {
   font-size: 36px;
   line-height: 1.16;
   letter-spacing: 3%;
-  color: var(--background-color);
+  color: var(--text-color-main);
 }
 
 /* Team */
@@ -228,7 +228,7 @@ body {
   font-size: 36px;
   line-height: 1.16;
   letter-spacing: 3%;
-  color: var(--background-color);
+  color: var(--text-color-main);
 }
 
 .subtitle-team {
