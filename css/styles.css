@@ -186,7 +186,6 @@ body {
 }
 
 .item-info {
-  font-style: Regular;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 3%;
@@ -194,7 +193,6 @@ body {
 }
 
 .item-info {
-  font-style: Regular;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 3%;
@@ -202,7 +200,6 @@ body {
 }
 
 .item-info {
-  font-style: Regular;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 3%;
@@ -210,9 +207,84 @@ body {
 }
 
 .item-info {
-  font-style: Regular;
   font-size: 14px;
   line-height: 1.71;
+  letter-spacing: 3%;
+  color: var(--text-color-secondary);
+}
+
+.title-hedding {
+  font-style: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  letter-spacing: 3%;
+  color: var(--background-color);
+}
+
+/* Team */
+
+.title-team {
+  font-style: 700;
+  font-size: 36px;
+  line-height: 1.16;
+  letter-spacing: 3%;
+  color: var(--background-color);
+}
+
+.subtitle-team {
+  font-style: 500;
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 3%;
+  color: var(--text-color-main);
+}
+
+.team-caption {
+  font-style: 500;
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 3%;
+  color: var(--text-color-main);
+}
+.team-hedding {
+  font-style: 500;
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 3%;
+  color: var(--text-color-main);
+}
+.team-tite-img {
+  font-style: 500;
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 3%;
+  color: var(--text-color-main);
+}
+
+.info-tem {
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 3%;
+  color: var(--text-color-secondary);
+}
+
+.name-team {
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 3%;
+  color: var(--text-color-secondary);
+}
+
+.name-post {
+  font-size: 16px;
+  line-height: 1.18;
+  letter-spacing: 3%;
+  color: var(--text-color-secondary);
+}
+
+.team-work {
+  font-size: 16px;
+  line-height: 1.18;
   letter-spacing: 3%;
   color: var(--text-color-secondary);
 }
