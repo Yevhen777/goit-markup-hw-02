@@ -128,6 +128,10 @@ body {
 
 /* main hero */
 
+.hero {
+  background-color: #2f303a;
+}
+
 .hero-title {
   font-style: 900;
   font-size: 44px;
