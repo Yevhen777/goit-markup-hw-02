@@ -3,6 +3,7 @@
   --background-color: #ffffff;
   --text-color-main: #212121;
   --text-color-secondary: #757575;
+  --footer-text-color: #2f303a;
 }
 
 body {
@@ -132,6 +133,9 @@ body {
   background-color: #2f303a;
 }
 
+.hero-btn {
+  background-color: #2196f3;
+}
 .hero-title {
   font-style: 900;
   font-size: 44px;
@@ -145,7 +149,7 @@ body {
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 6%;
-  color: #2196f3;
+  color: var(--accent-color;
 }
 
 .hero-btn {
@@ -293,6 +297,9 @@ body {
   color: var(--text-color-secondary);
 }
 /* Футер */
+.footer-list {
+  background-color: #2f303a;
+}
 
 .logo {
   font-family: Raleway;
