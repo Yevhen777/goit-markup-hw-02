@@ -478,7 +478,7 @@ body {
 
 .list-btm:hover,
 .list-btm:focus {
-  color: var(--accent-color);
+  color: var(--accent-btn-color);
 }
 
 .list-button {
