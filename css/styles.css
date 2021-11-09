@@ -94,33 +94,12 @@ body {
   color: var(--accent-color);
 }
 
-.text-mail {
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 1.14;
-  letter-spacing: 0.02em;
-  color: var(--text-color-main);
-}
-
-.text-mail {
-  color: var(--text-color-main);
-}
-
-.text-mail:hover,
-.text-mail:focus {
-  color: var(--accent-color);
-}
-
 .text-tel {
   font-size: 14px;
   font-weight: 500;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color: var(--text-color-main);
-}
-
-.text-tel {
-  color: var(--text-color-main);
+  color: var(--text-color-secondary);
 }
 
 .text-tel:hover,
@@ -437,11 +416,7 @@ body {
   font-weight: 500;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color: var(--text-color-main);
-}
-
-.text-mail {
-  color: var(--text-color-main);
+  color: var(--text-color-secondary);
 }
 
 .text-mail:hover,
@@ -454,11 +429,7 @@ body {
   font-weight: 500;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color: var(--text-color-main);
-}
-
-.text-tel {
-  color: var(--text-color-main);
+  color: var(--text-color-secondary);
 }
 
 .text-tel:hover,
@@ -474,11 +445,12 @@ body {
   line-height: 1.63;
   letter-spacing: 0.03em;
   color: var(--background-color);
+  background-color: var(--accent-btn-color);
 }
 
 .list-btm:hover,
 .list-btm:focus {
-  color: var(--accent-btn-color);
+  color: var(--accent-color);
 }
 
 .list-button {
