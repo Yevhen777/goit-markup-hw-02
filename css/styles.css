@@ -50,9 +50,8 @@ body {
   letter-spacing: 0.02em;
   color: var(--text-color-main);
 }
-
 .text-nav-one {
-  color: var(--text-color-main);
+  cursor: var(--accent-color);
 }
 
 .text-nav-one:hover,
@@ -136,67 +135,7 @@ body {
   background-color: var(--accent-btn-color);
 }
 
-.item-text {
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 1.14;
-  letter-spacing: 0.06em;
-  color: var(--text-color-main);
-}
-
-.item-text {
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 1.14;
-  letter-spacing: 0.06em;
-  color: var(--text-color-main);
-}
-
-.item-text {
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 1.14;
-  letter-spacing: 0.06em;
-  color: var(--text-color-main);
-}
-
-.item-text {
-  font-weight: 700;
-  font-size: 14px;
-  line-height: 1.14;
-  letter-spacing: 0.06em;
-  color: var(--text-color-main);
-}
-
-.item-info {
-  font-size: 14px;
-  line-height: 1.71;
-  letter-spacing: 0.03em;
-  color: var(--text-color-secondary);
-}
-
-.item-info {
-  font-size: 14px;
-  line-height: 1.71;
-  letter-spacing: 0.03em;
-  color: var(--text-color-secondary);
-}
-
-.item-info {
-  font-size: 14px;
-  line-height: 1.71;
-  letter-spacing: 0.03em;
-  color: var(--text-color-secondary);
-}
-
-.item-info {
-  font-size: 14px;
-  line-height: 1.71;
-  letter-spacing: 0.03em;
-  color: var(--text-color-secondary);
-}
-
-.title-hedding {
+. .title-hedding {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
@@ -205,6 +144,10 @@ body {
 }
 
 /* Team */
+
+.section-team {
+  background-color: #f5f4fa;
+}
 
 .title-team {
   font-weight: 700;
