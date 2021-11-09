@@ -50,12 +50,17 @@ body {
   letter-spacing: 0.02em;
   color: var(--text-color-main);
 }
-.text-nav-one {
-  cursor: var(--accent-color);
-}
 
 .text-nav-one:hover,
 .text-nav-one:focus {
+  color: var(--accent-color);
+}
+
+.text-nav-one.current {
+  color: var(--accent-color);
+}
+
+.text-nav-two.current {
   color: var(--accent-color);
 }
 
@@ -64,10 +69,6 @@ body {
   font-weight: 500;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color: var(--text-color-main);
-}
-
-.text-nav-two {
   color: var(--text-color-main);
 }
 
@@ -81,10 +82,6 @@ body {
   font-weight: 500;
   line-height: 1.14;
   letter-spacing: 0.02em;
-  color: var(--text-color-main);
-}
-
-.text-nav-tree {
   color: var(--text-color-main);
 }
 
@@ -293,60 +290,6 @@ body {
 .logo-accent:hover,
 .logo-accent:focus {
   color: var(--accent-color);
-}
-
-.text-nav-one {
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 1.14;
-  letter-spacing: 0.02em;
-  color: var(--text-color-main);
-}
-
-.text-nav-one {
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 1.14;
-  letter-spacing: 0.02em;
-  color: var(--text-color-main);
-}
-
-.text-nav-one {
-  color: var(--text-color-main);
-}
-
-.text-nav-one:hover,
-.text-nav-one:focus {
-  color: var(--accent-color);
-}
-
-.text-nav-two {
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 1.14;
-  letter-spacing: 0.02em;
-  color: var(--text-color-main);
-}
-
-.text-nav-two {
-  color: var(--text-color-main);
-}
-
-.text-nav-two:hover,
-.text-nav-two:focus {
-  color: var(--accent-color);
-}
-
-.text-nav-tree {
-  font-size: 14px;
-  font-weight: 500;
-  line-height: 1.14;
-  letter-spacing: 0.02em;
-  color: var(--text-color-main);
-}
-
-.text-nav-tree {
-  color: var(--text-color-main);
 }
 
 .text-nav-tree:hover,
