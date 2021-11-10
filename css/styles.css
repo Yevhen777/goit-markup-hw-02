@@ -366,7 +366,7 @@ body {
   background-color: var(--accent-color);
 }
 
-.info-pre {
+.portfolio-title {
   font-weight: 700;
   font-size: 18px;
   line-height: 2;
@@ -374,7 +374,7 @@ body {
   color: var(--text-color-main);
 }
 
-.pre-titel {
+.portfolio-item {
   font-size: 16px;
   line-height: 1.87;
   letter-spacing: 0.03em;
