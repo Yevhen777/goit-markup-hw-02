@@ -105,6 +105,10 @@ body {
 
 /* main hero */
 
+.hero-btn {
+  cursor: pointer;
+}
+
 .hero {
   background-color: #2f303a;
 }
@@ -342,6 +346,10 @@ body {
 }
 
 /* Кнопки */
+
+.list-button {
+  cursor: pointer;
+}
 
 .list-button {
   font-family: Roboto, sans-serif;
